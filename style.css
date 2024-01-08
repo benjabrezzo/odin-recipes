@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    height: 150px;
+    font-weight: 900;
+    text-align: center;
+    border: 1px solid black;
+    background-image: url("./img/aea09d635db4444475efac0b42e0ac1b.gif");
+    margin: 0px;
+    line-height: 150px;
+    background-repeat: no-repeat; /* Evita la repetición del fondo */
+    background-size: cover;
+}
